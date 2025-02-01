@@ -6,4 +6,4 @@
 
 # Autor
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Felippe Barroso</sub>](https://github.com/lippebarroso)
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/195381864?s=96&v=4><br><sub>Felippe Barroso</sub>](https://github.com/lippebarroso)
